@@ -12,4 +12,4 @@ end
 
 board = ["O","X","O","X","O","X","O","X","O"]
 
-display_board(board)
+puts display_board(board)

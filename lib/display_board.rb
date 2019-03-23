@@ -10,6 +10,6 @@ def display_board
   puts " #{6} | #{7} | #{8} "
 end 
 
-board = ["x","y"]
+board = ["O","X","O","X","O","X","O","X","O"]
 
 display_board(board)

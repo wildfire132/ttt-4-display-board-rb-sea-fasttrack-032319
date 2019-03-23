@@ -10,5 +10,6 @@ def display_board
   puts " #{7} | #{8} | #{9} "
 end 
 
+board = ["x","y"]
 
-display_board
+display_board(board)
